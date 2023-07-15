@@ -307,3 +307,5 @@ function checkGameOver() {
 $("#close-img").on("click", () => {
   $(".gameover")[0].classList.remove("gameoverVisible");
 });
+
+//wr
